@@ -1,5 +1,5 @@
 # unix-shell-c
-
+```
 A minimal Unix-like shell implemented in C to understand process management, system calls, and inter-process communication in Linux.
 This project was built as a systems programming exercise to explore how real shells work internally.
 
@@ -71,3 +71,4 @@ Future Improvements:
 
 Author:
   Built as part of systems programming learning and preparation for research internships.
+```
